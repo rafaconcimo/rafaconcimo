@@ -1,4 +1,4 @@
 - 👋 Olá, eu sou @rafaconcimo
-- 👀 Área de interesse: Desenvolvimento Web.
-- 🌱 Atualmente estou em um processo de aprendizado: JavaScript, React, CSS/CSS Tawilind, HTML.
+- 👀 Área de interesse: Engenharia de Dados
+- 🌱 Atualmente estou em um processo de aprendizado: Python, Jupyter Notebook, Pandas, Numpy, SQL, Git e GitHub.
 - 📫 Linkedin: https://www.linkedin.com/in/rafaela-concimo-09902b19b/
